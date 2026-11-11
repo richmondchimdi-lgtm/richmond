@@ -1,0 +1,9 @@
+{
+  "name": "VYRO - Next-Gen Social Matrix",
+  "description": "The unified social media platform combining vertical smart video feed, Snapchat snap streaks & lenses, and Instagram stories & explore grid.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
